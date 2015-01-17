@@ -1,4 +1,4 @@
-#pragma config(Sensor, S3,		 lightSensor,					sensorLightActive)
+#pragma config(Sensor, S3, lightSensor, sensorLightActive)
 
 /*
 Authors: Vlad Silin, Mrigank Mehta
